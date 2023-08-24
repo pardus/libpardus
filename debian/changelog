@@ -1,5 +1,15 @@
 libpardus (0.0.1) unstable; urgency=medium
 
-  * Initial release.
+  [ Osman Coskun ]
+  * update: README
+  * fix: Adw version control added in AboutDialog
+  * fix: meson added as build type
+  * fix: wrong logic updated
+  * fix: new folder and module structure
+  * fix: all files are moved to bin/Ptk
 
- -- osman.coskun <osman.coskun@pardus.org.tr>  Thu, 13 Jul 2023 14:55:49 +0300
+  [ Fatih Altun ]
+  * Update copyright
+  * Update debian standards
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 25 Aug 2023 02:07:40 +0300
